@@ -1,3 +1,18 @@
+## Sign Up
+![image](https://user-images.githubusercontent.com/59143174/183255119-197e3c6a-dca4-410a-9e38-a2d339e28929.png)
+
+## Sign In
+![image](https://user-images.githubusercontent.com/59143174/183255162-9c0cf96f-b083-4dfd-b057-7af5975c4859.png)
+
+## Home ( getting current Weather data for your current Location )
+![image](https://user-images.githubusercontent.com/59143174/183255236-5da94654-4ebd-4732-bdeb-341249538ddf.png)
+
+## Seach By City ( changing background depends on tempreture degree )
+![image](https://user-images.githubusercontent.com/59143174/183255301-50fd53b3-2bfc-4fdb-be49-5e0c8ba51959.png)
+![image](https://user-images.githubusercontent.com/59143174/183255661-49e86253-6153-44c8-8cda-53536b65092e.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
