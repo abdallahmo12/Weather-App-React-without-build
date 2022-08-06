@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300&display=swap');
+body{
+  position: relative;
+  font-family: 'Merriweather Sans', sans-serif;
+  background-color: #671584 !important;
+  /* background-image: url('../public/assets/sunny-1.jpg'); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100% !important;
+  color: #F3f3f3 !important;
+  overflow-x: hidden;
+}
+body:after{
+  display: block;
+  position: absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background:rgba(19, 23, 34, 0.8) !important;
+}
+.bbody-vh{
+  height: 100vh !important;
+}
+.bbody{
+  background-image: url('../public/assets/sunny-1.jpg') !important;
+}
+.bbody-n{
+  background-image: url('../public/assets/clouds-2.jpg') !important;
+}
+.bg-orange{
+  background-color: rgba(240, 86, 9, 1) !important;
+}
+.bg-ddrk{
+  background-color: rgba(12, 12, 12 , 0.3) !important;
+}
+.text-color-1{
+  color: #FF6700 !important;
+}
+.navv-item{
+  margin:5px;
+  transition: 0.5s ease-out;
+}
+ul li:focus .navv-item , ul li:hover .navv-item{
+  color:white !important;
+  background-color: #FF6700 !important;
+  /* padding: 0 10px; */
+  border: 0;
+  outline: none;
+  border-radius: 8px;
+}
+
+.active{
+  color:#F3f3f3 !important;
+}
+.bg-nav{
+  background-color: rgba(19, 23, 34, 0.4) !important;
+  /* background-color: rgba(250, 252, 255, 0.3) !important; */
+}
+.sc{
+  overflow-x: scroll;
+}
+.char-spacing{
+  letter-spacing: 5px;
+}
+.all-height{
+  height:calc(100vh - 68px);
+  padding-bottom: 10px;
+}
+.outline-nn{
+  outline: none;
+}
